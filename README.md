@@ -1,6 +1,6 @@
 ## 🐍 Python-BookStore GUI
 
-- Fifth example course from [Udemy course](https://www.udemy.com/course/the-python-mega-course/)
+- Fifth example project from [Udemy course](https://www.udemy.com/course/the-python-mega-course/)
 - Uses Tkinter library to build a fullstack application with a GUI, including button/list widgets and a sqlite3 database
 - Users can use the full CRUD operations by entering the text in the labelled fields and clicking the actions
 - Includes executable file that users can copy and run WITHOUT Python installed, will create a DB for you if one is missing
